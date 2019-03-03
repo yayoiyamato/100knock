@@ -1,0 +1,26 @@
+h2 {
+  margin: 0 0 10px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  border-top: dashed 1px black;
+  list-style: none;
+}
+
+li {
+  margin: 0 0 0px;
+  padding: 25px 0;
+  border-bottom: dashed 1px black;
+  box-sizing: border-box;
+}
+
+p i {
+  width: 16px;
+  text-align: center;
+}
+
+span.message {
+  color: red ;
+}
